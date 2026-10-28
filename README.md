@@ -1,5 +1,4 @@
-<img width="1400" height="349" alt="image" src="<img width="2064" height="512" alt="Open to work (github)" src="https://github.com/user-attachments/assets/b6af72ac-6916-417b-b211-e8e25fac2fee" />
- />
+<img width="2064" height="512" alt="Open to work (github)" src="https://github.com/user-attachments/assets/b6af72ac-6916-417b-b211-e8e25fac2fee" />
 
 
 # 💫 About Me:
