@@ -1,31 +1,94 @@
-<img width="2064" height="512" alt="Open to work (github)" src="https://github.com/user-attachments/assets/b6af72ac-6916-417b-b211-e8e25fac2fee" />
+<img width="2064" height="512" alt="Open to work" src="https://github.com/user-attachments/assets/b6af72ac-6916-417b-b211-e8e25fac2fee" />
 
-# 💫 About Me:
-# Hi there! 👋<br> I'm Sahed Ali <br><br>I'm a passionate **Full-Stack Web Developer** who loves turning ideas into fast, responsive, scalable, and visually engaging web experiences. I work with **React, Next.js, TypeScript, Node.js, Express.js, and MongoDB**, building complete applications from modern frontend interfaces to backend APIs, authentication, databases, and production deployments.<br><br>I'm continuously improving my skills by building real-world projects, solving production issues, working with authentication and authorization systems, and developing complete full-stack applications.<br><br>## 🚀 Current Progress<br><br>* 🔭 Currently building and improving **Rentora**, a full-stack rental platform with rental management, authentication, dashboards, reviews, and admin functionality.<br>* 💻 Recently worked extensively on full-stack projects including **HopeNest**, **Wanderlust**, **HireLoop**, and my interactive **3D portfolio**.<br>* 🏗️ Working with **Next.js App Router, React, TypeScript, Tailwind CSS, Node.js, Express.js, and MongoDB** to build complete frontend and backend systems.<br>* 🔐 Improving my experience with **JWT authentication, Better Auth, protected routes, authorization, API security, and role-based application flows**.<br>* 🚀 Working with **Vercel and Netlify** for production deployments and solving real-world issues involving APIs, environment variables, authentication, builds, and deployment.<br>* 🧩 Exploring **MongoDB aggregation pipelines, advanced API architecture, server-side data transformations, and scalable application structures**.<br>* 🎨 Continuously improving my UI/UX skills through responsive layouts, modern dashboards, animations, interactive components, and clean design systems.<br>* 🌱 Currently focused on becoming a stronger **Full-Stack Engineer** by building production-ready applications and solving real development problems.<br><br>## 📚 What I'm Currently Learning<br><br>* Advanced **Next.js App Router** architecture<br>* **TypeScript** for scalable applications<br>* Advanced **MongoDB queries and aggregation**<br>* Authentication and authorization systems<br>* REST API architecture with **Node.js & Express.js**<br>* Production deployment and debugging<br>* Performance optimization<br>* Responsive and accessible UI/UX<br>* Modern component architecture<br>* Interactive web experiences with **Three.js / React Three Fiber**<br><br>## 💼 Projects I've Worked On<br><br>* 🏠 **Rentora** — Full-stack rental platform with rental listings, authentication, reviews, dashboards, and admin functionality.<br>* 🤝 **HopeNest** — Community event management platform for discovering, joining, and managing community-driven events.<br>* ✈️ **Wanderlust** — Full-stack travel agency application with destinations, travel experiences, authentication, and backend API integration.<br>* 💼 **HireLoop** — Job and recruitment platform with job discovery, authentication, recruiter functionality, and dashboard experiences.<br>* 🌐 **Personal Portfolio** — Interactive developer portfolio showcasing my projects, skills, and 3D web experiments.<br><br>## 🧠 What I Enjoy Building<br><br>* ⚡ High-performance full-stack web applications<br>* 🌐 Modern Next.js applications<br>* 🎨 Responsive and interactive user interfaces<br>* 🔐 Secure authentication and authorization systems<br>* 🧩 Scalable REST APIs with Node.js and Express<br>* 🗄️ MongoDB database systems and data architecture<br>* 📊 Admin and user dashboards<br>* 📱 Mobile-first and component-driven interfaces<br>* 🌌 Interactive 3D web experiences<br>* 🚀 Production-ready applications and deployments<br><br>---<br><br>> *Code with purpose. Design with creativity. Build experiences that matter.*<br><br>I'm open to **full-stack development opportunities, freelance projects, collaborations, open-source contributions, and interesting web development challenges**. If you're building something interesting with **React, Next.js, Node.js, or MongoDB**, I'd love to connect! 🤝<br>
+<h1 align="center">Hi, I'm Sahed Ali 👋</h1>
+<h3 align="center">Full-Stack Web Developer · React · Next.js · Node.js · MongoDB</h3>
 
-## 🌐 Portfolio & Profiles:
-🌐 **Portfolio:** [https://sahed-ali.vercel.app/](https://sahed-ali.vercel.app/)
-
-💻 **GitHub:** [https://github.com/sahedali0237](https://github.com/sahedali0237)
-
-💼 **LinkedIn:** [https://www.linkedin.com/in/sahed-ali-dev/](https://www.linkedin.com/in/sahed-ali-dev/)
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/SahedAli0137) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahed-ali-dev/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Sahed%20Ali) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:work.sahed.1st@gmail.com) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=sahedali0237&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=sahedali0237&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=sahedali0237&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sahedali0237&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <a href="https://sahed-ali.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/sahed-ali-dev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:work.sahed.1st@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://facebook.com/SahedAli0137"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=sahedali0237&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 👨‍💻 About Me
+
+I build fast, responsive, and scalable web applications end to end: from polished frontend interfaces to backend APIs, authentication, databases, and production deployments.
+
+I learn by shipping real projects and fixing real production issues, which is why my work focuses on secure auth flows, clean API design, and maintainable architecture.
+
+> **Open to:** full-stack roles, freelance projects, collaborations, and open-source contributions.
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| 🏠 **Rentora** | Rental platform with listings, authentication, reviews, dashboards, and admin tools *(in progress)* | Next.js, Express, MongoDB, Stripe |
+| 🤝 **HopeNest** | Community event platform to discover, join, and manage events | React, Node.js, MongoDB |
+| ✈️ **Wanderlust** | Travel agency app with destinations, experiences, auth, and backend API | React, Express, MongoDB |
+| 💼 **HireLoop** | Job board with recruiter tools, job discovery, and dashboards | Next.js, shadcn/ui, Express, MongoDB |
+| 🌌 **3D Portfolio** | Interactive portfolio with a 3D projects showcase | React, React Three Fiber |
+
+👉 More on my [portfolio](https://sahed-ali.vercel.app/) and [GitHub repositories](https://github.com/sahedali0237?tab=repositories).
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=flat-square&logo=daisyui&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=flat-square&logo=bootstrap&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
+
+**Backend & Database**
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+
+**Tools & Deployment**
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## 🔭 What I'm Focused On
+
+- 🔐 **Authentication & security:** JWT, Better Auth, protected routes, role-based access
+- ⚡ **Next.js App Router:** server components, data fetching, scalable structure
+- 🗄️ **MongoDB:** aggregation pipelines and efficient queries
+- 🧱 **TypeScript:** type-safe, maintainable applications
+- 🚀 **Production readiness:** deployments, environment config, debugging, performance
+- 🎨 **UI/UX:** responsive, accessible dashboards and interactive components
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.shion.dev/api?username=sahedali0237&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=sahedali0237&theme=radical&hide_border=true&layout=compact" alt="Top languages" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=sahedali0237&theme=radical&hide_border=true" alt="GitHub streak" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+If you're building something with **React, Next.js, Node.js, or MongoDB**, I'd love to hear about it.
+📩 [work.sahed.1st@gmail.com](mailto:work.sahed.1st@gmail.com)
+
+<p align="center"><i>Code with purpose. Design with creativity. Build experiences that matter.</i></p>
